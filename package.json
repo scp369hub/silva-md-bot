@@ -8,7 +8,7 @@
     "test": "node --test"
   },
   "engines": {
-    "node": "20.x"
+    "node": "26.x"
   },
   "repository": {
     "type": "git",
